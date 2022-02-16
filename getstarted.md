@@ -128,8 +128,8 @@ Files you create inside the [`_posts`](./_posts) directory will be treated as bl
 .gs-section-01 {
      margin-top: 100px;
      margin-bottom: 100px;
-     padding-left: 30px;
-     padding-right: 30px;
+     padding-left: 40px;
+     padding-right: 40px;
      text-align: justify;
 }
 .gs-section-01 h3 { 
@@ -145,7 +145,7 @@ Files you create inside the [`_posts`](./_posts) directory will be treated as bl
 .gs-section-02 {
      margin-top: 100px;
      margin-bottom: 100px;
-     padding-left: 30px;
+     padding-left: 20px;
      padding-right: 60px;
      text-align: justify;
 }
@@ -163,7 +163,7 @@ Files you create inside the [`_posts`](./_posts) directory will be treated as bl
      margin-top: 100px;
      margin-bottom: 100px;
      padding-left: 60px;
-     padding-right: 30px;
+     padding-right: 20px;
      text-align: justify;
 }
 .gs-section-03 h3 { 
